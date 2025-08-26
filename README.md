@@ -85,18 +85,21 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together </br> just ping me 😉.
 </br>
 </br>
+<a href="https://portfolio-theyashdevladhas-projects.vercel.app/">
+  <img align="left" alt="Portfolio" width="180" hight="120" src="Assets/Icons/Portfolio.png" />
+</a>
 <a href="mailto:Yashdevladdha@gmail.com">
  <img align="left" alt="Gmail" width="150" hight="120" src="Assets/Icons/gmail.png" />
+</br>
+</br>
+</br>
 </a>
 <a href="https://www.linkedin.com/in/yash-dev-laddha-81637b318/">
   <img align="left" alt="Linkedin" width="180" hight="120" src="Assets/Icons/linkedin.png" />
-</br>
-</br>
-</br>
 </a>
-<a href="https://portfolio-theyashdevladhas-projects.vercel.app/">
-  <img align="left" alt="Portfolio" width="180" hight="120" src="Assets/Icons/Portfolio1.png" />
-</a> 
+<a href="https://www.kaggle.com/yashdevladdha">
+  <img align="left" alt="Kaggle" width="150" hight="120" src="Assets/Icons/Kaggle.png" />
+</a>
  </p>
  </div>
  
