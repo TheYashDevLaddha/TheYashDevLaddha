@@ -92,9 +92,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </a>
-<!-- <a href="https://steamcommunity.com/profiles/76561198981743727">
-  <img align="left" alt="Steam" width="230" hight="200" src="Assets/Icons/steam.png" />
-</a> -->
+<a href="https://portfolio-theyashdevladhas-projects.vercel.app/">
+  <img align="left" alt="Portfolio" width="180" hight="120" src="Assets/Icons/Portfolio1.png" />
+</a> 
  </p>
  </div>
  
