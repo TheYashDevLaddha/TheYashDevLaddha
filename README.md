@@ -93,13 +93,13 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="Portfolio" width="180" hight="120" src="Assets/Icons/Portfolio.png" />
 </a>
 <a href="mailto:Yashdevladdha@gmail.com">
- <img align="left" alt="Gmail" width="150" hight="120" src="Assets/Icons/gmail.png" />
+ <img align="left" alt="Gmail" width="150" hight="120" src="Assets/Icons/Gmail.png" />
 </br>
 </br>
 </br>
 </a>
 <a href="https://www.linkedin.com/in/yash-dev-laddha-81637b318/">
-  <img align="left" alt="Linkedin" width="180" hight="120" src="Assets/Icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="180" hight="120" src="Assets/Icons/Linkedin.png" />
 </a>
 <a href="https://www.kaggle.com/yashdevladdha">
   <img align="left" alt="Kaggle" width="150" hight="120" src="Assets/Icons/Kaggle.png" />
