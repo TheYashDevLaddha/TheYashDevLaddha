@@ -12,7 +12,7 @@
 
  <br/>
  
-<img hight="400" width="500" alt="GIF" align="right" src="Assets/Goku.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="Assets/4_Sides_of_Me.gif">
 
 ### 🌱 Learning :
 - 🧠 Data Structures & Algorithms
