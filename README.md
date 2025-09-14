@@ -19,7 +19,7 @@
 - ✨ SQL (SSMS)
 
 ### 🎯 Hobbies : 
-- 🕹️ Gaming Addict
+- 🕹️ Gaming 
 - 📺 Watching Anime
 - 🏸 Badminton (Neighbourhood Professional XD)
 
