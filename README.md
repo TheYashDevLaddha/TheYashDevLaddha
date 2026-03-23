@@ -89,7 +89,7 @@
 Drop me a line whenever - whether you're stuck on something or are in the mood to play some fun games, just ping me anytime! 😉
 </br>
 </br>
-<a href="https://portfolio-theyashdevladhas-projects.vercel.app/">
+<a href="https://yashdevladdha.vercel.app/">
   <img align="left" alt="Portfolio" width="180" hight="120" src="Assets/Icons/Portfolio.png" />
 </a>
 <a href="mailto:Yashdevladdha@gmail.com">
